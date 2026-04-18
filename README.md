@@ -1,2 +1,2 @@
 # todo_manager.py
-This is a simple todo manager program for productivity.
+This is a simple to-do manager program for productivity.
